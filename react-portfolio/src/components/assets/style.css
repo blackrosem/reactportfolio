@@ -1,0 +1,56 @@
+.form {
+  margin: 20px;
+}
+
+.form input {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 25%;
+}
+
+header {
+  background-color:lightcyan;
+}
+
+
+h1 {
+  margin: 20px;
+  font-size: 30px;
+  color: royalblue;
+}
+
+div {
+  background-color: lightcyan;
+  padding-bottom: 20px;
+}
+
+p {
+  margin: 20px;
+  font-size: 20px;
+  color: royalblue;
+}
+
+img {
+  margin: 20px;
+}
+
+.grid-container {
+  display: grid;
+  column-gap: 50px;
+  row-gap: 50px;
+}
+
+label {
+  color: royalblue;
+}
+
+ul {
+  color: royalblue;
+  margin: 20px;
+}
+
+h3 {
+  color: royalblue;
+  margin: 20px;
+}
